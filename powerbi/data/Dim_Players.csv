@@ -1,0 +1,301 @@
+player_id,player_name,account_created,starting_rank_id,region,current_rank_name,current_rank_tier_order,churned,churn_probability,predicted_churn,segment_name
+1,Player_0001,2024-04-13,9,Latin America,Silver 3,9,1,0.0125,0,At-Risk / Low Engagement
+2,Player_0002,2025-04-21,14,North America,Platinum 1,13,0,0.0672,0,At-Risk / Low Engagement
+3,Player_0003,2024-04-27,16,North America,Diamond 3,18,0,0.0013,0,Social / Party Player
+4,Player_0004,2024-11-20,13,Brazil,Diamond 1,16,1,0.9828,1,Casual Regular
+5,Player_0005,2025-12-17,15,North America,Platinum 1,13,1,0.9927,1,At-Risk / Low Engagement
+6,Player_0006,2025-02-02,17,Europe,Diamond 3,18,0,0.001,0,Social / Party Player
+7,Player_0007,2024-12-21,15,Europe,Diamond 2,17,0,0.0119,0,Casual Regular
+8,Player_0008,2025-06-22,10,North America,Gold 3,12,0,0.0547,0,Casual Regular
+9,Player_0009,2025-03-12,16,Asia-Pacific,Diamond 2,17,0,0.1236,0,Social / Party Player
+10,Player_0010,2024-11-20,20,Europe,Ascendant 3,21,1,0.9877,1,Social / Party Player
+11,Player_0011,2025-12-19,11,North America,Platinum 1,13,0,0.0009,0,Hardcore Core
+12,Player_0012,2025-09-21,14,North America,Diamond 1,16,0,0.0023,0,Social / Party Player
+13,Player_0013,2024-04-04,21,North America,Immortal 2,23,0,0.001,0,Social / Party Player
+14,Player_0014,2025-03-31,14,North America,Platinum 3,15,0,0.0016,0,Hardcore Core
+15,Player_0015,2024-08-20,20,Korea,Ascendant 1,19,0,0.093,0,Social / Party Player
+16,Player_0016,2024-09-26,11,North America,Platinum 1,13,1,0.9639,1,Casual Regular
+17,Player_0017,2024-10-09,8,Latin America,Silver 2,8,0,0.0089,0,At-Risk / Low Engagement
+18,Player_0018,2025-02-06,8,Europe,Bronze 3,6,0,0.0006,0,Hardcore Core
+19,Player_0019,2024-12-07,16,Korea,Diamond 1,16,1,0.9876,1,Social / Party Player
+20,Player_0020,2024-02-15,16,Europe,Platinum 2,14,0,0.0044,0,Hardcore Core
+21,Player_0021,2023-10-15,18,North America,Ascendant 1,19,0,0.0015,0,Social / Party Player
+22,Player_0022,2025-06-22,11,North America,Gold 3,12,0,0.0682,0,Casual Regular
+23,Player_0023,2024-06-28,18,Latin America,Ascendant 2,20,0,0.0096,0,Social / Party Player
+24,Player_0024,2023-10-11,11,Asia-Pacific,Gold 3,12,0,0.0015,0,At-Risk / Low Engagement
+25,Player_0025,2026-01-25,15,Europe,Diamond 1,16,1,0.9904,1,Casual Regular
+26,Player_0026,2024-03-20,18,Europe,Ascendant 2,20,0,0.0634,0,Social / Party Player
+27,Player_0027,2024-11-25,8,Europe,Platinum 1,13,0,0.0195,0,Hardcore Core
+28,Player_0028,2023-10-13,18,North America,Diamond 2,17,0,0.0008,0,Social / Party Player
+29,Player_0029,2024-09-15,10,North America,Silver 3,9,0,0.6496,1,Casual Regular
+30,Player_0030,2024-02-02,17,Asia-Pacific,Ascendant 3,21,0,0.0081,0,Social / Party Player
+31,Player_0031,2025-09-09,11,Asia-Pacific,Gold 2,11,0,0.002,0,At-Risk / Low Engagement
+32,Player_0032,2025-09-30,18,North America,Diamond 2,17,1,0.0176,0,Social / Party Player
+33,Player_0033,2023-11-17,10,North America,Gold 1,10,0,0.0019,0,Hardcore Core
+34,Player_0034,2024-10-30,6,Korea,Bronze 3,6,0,0.0056,0,Hardcore Core
+35,Player_0035,2024-10-03,20,North America,Diamond 2,17,0,0.0076,0,Social / Party Player
+36,Player_0036,2025-09-06,8,North America,Silver 2,8,0,0.0006,0,Hardcore Core
+37,Player_0037,2025-07-18,10,Korea,Silver 3,9,0,0.0004,0,Hardcore Core
+38,Player_0038,2024-02-20,17,North America,Platinum 3,15,0,0.0012,0,Social / Party Player
+39,Player_0039,2025-05-13,13,Brazil,Gold 1,10,0,0.0006,0,At-Risk / Low Engagement
+40,Player_0040,2024-09-10,15,North America,Platinum 1,13,0,0.0517,0,Hardcore Core
+41,Player_0041,2025-05-01,18,Asia-Pacific,Diamond 3,18,0,0.0018,0,Social / Party Player
+42,Player_0042,2025-06-16,17,Korea,Diamond 2,17,1,0.9776,1,At-Risk / Low Engagement
+43,Player_0043,2025-09-09,12,Latin America,Gold 3,12,0,0.0009,0,Casual Regular
+44,Player_0044,2023-11-15,4,North America,Iron 2,2,0,0.0005,0,Hardcore Core
+45,Player_0045,2023-11-06,9,North America,Silver 3,9,0,0.001,0,At-Risk / Low Engagement
+46,Player_0046,2025-10-23,11,Latin America,Gold 2,11,0,0.0004,0,Hardcore Core
+47,Player_0047,2025-03-30,21,Brazil,Ascendant 3,21,0,0.0021,0,Social / Party Player
+48,Player_0048,2024-09-28,18,Europe,Ascendant 1,19,1,0.9967,1,Casual Regular
+49,Player_0049,2025-03-04,10,North America,Gold 2,11,0,0.0067,0,Hardcore Core
+50,Player_0050,2024-05-14,13,Europe,Gold 3,12,0,0.0068,0,At-Risk / Low Engagement
+51,Player_0051,2025-06-19,20,Latin America,Diamond 3,18,0,0.0333,0,Social / Party Player
+52,Player_0052,2025-12-11,12,North America,Gold 2,11,0,0.1389,0,At-Risk / Low Engagement
+53,Player_0053,2025-04-13,16,North America,Ascendant 3,21,0,0.0026,0,Social / Party Player
+54,Player_0054,2024-08-29,15,Asia-Pacific,Platinum 3,15,1,0.9552,1,Social / Party Player
+55,Player_0055,2025-08-27,16,Asia-Pacific,Platinum 1,13,0,0.0027,0,Hardcore Core
+56,Player_0056,2024-02-22,12,Korea,Gold 2,11,0,0.0024,0,Casual Regular
+57,Player_0057,2026-01-21,7,Asia-Pacific,Iron 3,3,0,0.001,0,At-Risk / Low Engagement
+58,Player_0058,2025-12-04,14,Europe,Platinum 3,15,0,0.0014,0,Social / Party Player
+59,Player_0059,2024-11-15,18,Brazil,Diamond 3,18,0,0.0231,0,Social / Party Player
+60,Player_0060,2024-11-12,5,Asia-Pacific,Iron 3,3,0,0.0038,0,Hardcore Core
+61,Player_0061,2025-05-20,22,Korea,Immortal 3,24,0,0.0192,0,Social / Party Player
+62,Player_0062,2025-06-21,2,North America,Iron 1,1,0,0.001,0,At-Risk / Low Engagement
+63,Player_0063,2025-12-02,3,Europe,Iron 1,1,1,0.9772,1,At-Risk / Low Engagement
+64,Player_0064,2024-07-04,6,Asia-Pacific,Gold 1,10,0,0.0035,0,Hardcore Core
+65,Player_0065,2025-03-08,10,Europe,Gold 2,11,0,0.3237,0,At-Risk / Low Engagement
+66,Player_0066,2025-10-20,13,Asia-Pacific,Platinum 2,14,0,0.0011,0,Hardcore Core
+67,Player_0067,2025-02-18,12,Asia-Pacific,Gold 2,11,0,0.0248,0,At-Risk / Low Engagement
+68,Player_0068,2023-11-08,14,Korea,Platinum 3,15,0,0.0026,0,Casual Regular
+69,Player_0069,2025-06-18,9,North America,Silver 1,7,0,0.0008,0,Hardcore Core
+70,Player_0070,2023-12-15,20,Europe,Ascendant 3,21,0,0.0008,0,Social / Party Player
+71,Player_0071,2025-06-20,7,Asia-Pacific,Silver 2,8,0,0.0016,0,Hardcore Core
+72,Player_0072,2025-08-23,11,Asia-Pacific,Platinum 1,13,0,0.0013,0,Hardcore Core
+73,Player_0073,2025-06-19,6,Asia-Pacific,Bronze 2,5,0,0.005,0,At-Risk / Low Engagement
+74,Player_0074,2025-04-25,14,Asia-Pacific,Gold 3,12,0,0.0033,0,At-Risk / Low Engagement
+75,Player_0075,2025-10-19,17,Europe,Platinum 1,13,0,0.0043,0,At-Risk / Low Engagement
+76,Player_0076,2024-09-07,21,Latin America,Ascendant 3,21,0,0.0912,0,Social / Party Player
+77,Player_0077,2025-04-16,13,Europe,Platinum 2,14,0,0.0012,0,Social / Party Player
+78,Player_0078,2024-05-17,16,North America,Platinum 1,13,0,0.0017,0,Social / Party Player
+79,Player_0079,2024-11-30,11,North America,Platinum 1,13,0,0.0869,0,Hardcore Core
+80,Player_0080,2025-01-11,18,Latin America,Diamond 3,18,0,0.0021,0,Social / Party Player
+81,Player_0081,2024-12-18,10,North America,Silver 3,9,0,0.0353,0,At-Risk / Low Engagement
+82,Player_0082,2025-09-18,13,Europe,Gold 2,11,0,0.001,0,Hardcore Core
+83,Player_0083,2024-05-21,12,Europe,Silver 2,8,0,0.0016,0,Hardcore Core
+84,Player_0084,2025-11-02,14,Korea,Diamond 2,17,0,0.0007,0,Social / Party Player
+85,Player_0085,2024-05-14,17,Europe,Platinum 2,14,0,0.0022,0,Social / Party Player
+86,Player_0086,2023-09-15,9,Latin America,Silver 1,7,0,0.0018,0,Hardcore Core
+87,Player_0087,2024-04-07,14,Europe,Diamond 1,16,0,0.0034,0,Social / Party Player
+88,Player_0088,2024-12-31,11,North America,Gold 1,10,0,0.3037,0,At-Risk / Low Engagement
+89,Player_0089,2025-05-03,16,Europe,Diamond 3,18,0,0.0009,0,Social / Party Player
+90,Player_0090,2024-01-03,14,Asia-Pacific,Platinum 1,13,0,0.0034,0,Casual Regular
+91,Player_0091,2025-06-22,15,Korea,Platinum 2,14,0,0.0021,0,Casual Regular
+92,Player_0092,2024-12-08,18,North America,Ascendant 1,19,0,0.0102,0,Social / Party Player
+93,Player_0093,2024-04-01,20,Latin America,Immortal 1,22,0,0.0026,0,Social / Party Player
+94,Player_0094,2023-11-21,11,Asia-Pacific,Gold 2,11,0,0.0346,0,At-Risk / Low Engagement
+95,Player_0095,2023-11-22,10,Europe,Gold 3,12,1,0.9881,1,Casual Regular
+96,Player_0096,2025-11-16,4,North America,Iron 2,2,0,0.0044,0,Hardcore Core
+97,Player_0097,2023-12-12,19,Korea,Immortal 1,22,0,0.0025,0,Social / Party Player
+98,Player_0098,2025-10-24,8,North America,Silver 1,7,0,0.0005,0,Hardcore Core
+99,Player_0099,2024-09-10,11,North America,Silver 2,8,0,0.0243,0,At-Risk / Low Engagement
+100,Player_0100,2023-11-15,12,Asia-Pacific,Gold 3,12,0,0.0355,0,At-Risk / Low Engagement
+101,Player_0101,2024-07-11,10,Asia-Pacific,Platinum 1,13,0,0.3116,0,Casual Regular
+102,Player_0102,2023-10-30,12,North America,Silver 3,9,0,0.0019,0,At-Risk / Low Engagement
+103,Player_0103,2025-04-07,20,Latin America,Immortal 1,22,0,0.0009,0,Social / Party Player
+104,Player_0104,2025-05-03,3,Asia-Pacific,Iron 1,1,0,0.0003,0,Hardcore Core
+105,Player_0105,2025-04-23,7,Asia-Pacific,Silver 1,7,0,0.0033,0,Hardcore Core
+106,Player_0106,2025-03-29,11,North America,Platinum 2,14,0,0.0009,0,Hardcore Core
+107,Player_0107,2024-06-16,18,Asia-Pacific,Diamond 2,17,0,0.0036,0,Social / Party Player
+108,Player_0108,2025-01-03,8,Europe,Silver 1,7,0,0.0851,0,At-Risk / Low Engagement
+109,Player_0109,2024-04-30,11,Europe,Gold 1,10,0,0.0019,0,Hardcore Core
+110,Player_0110,2025-02-03,10,Europe,Silver 3,9,0,0.0014,0,Hardcore Core
+111,Player_0111,2025-05-09,15,North America,Diamond 3,18,0,0.0057,0,Social / Party Player
+112,Player_0112,2025-08-19,11,Europe,Silver 3,9,0,0.0006,0,Hardcore Core
+113,Player_0113,2024-10-09,10,North America,Platinum 1,13,0,0.7115,1,Casual Regular
+114,Player_0114,2023-12-12,18,North America,Platinum 2,14,0,0.0012,0,Social / Party Player
+115,Player_0115,2024-01-15,19,Europe,Diamond 2,17,0,0.0013,0,Social / Party Player
+116,Player_0116,2025-06-25,15,Brazil,Ascendant 1,19,0,0.0125,0,Casual Regular
+117,Player_0117,2024-12-12,19,Asia-Pacific,Ascendant 1,19,1,0.9806,1,Social / Party Player
+118,Player_0118,2024-05-28,10,North America,Gold 1,10,0,0.0013,0,Casual Regular
+119,Player_0119,2024-08-17,17,North America,Diamond 1,16,0,0.0021,0,Social / Party Player
+120,Player_0120,2025-12-04,11,Asia-Pacific,Gold 2,11,0,0.0006,0,Hardcore Core
+121,Player_0121,2024-09-04,18,Europe,Ascendant 1,19,0,0.0037,0,Social / Party Player
+122,Player_0122,2025-12-29,15,Europe,Ascendant 1,19,0,0.1878,0,Social / Party Player
+123,Player_0123,2025-10-22,15,North America,Platinum 3,15,0,0.0056,0,Social / Party Player
+124,Player_0124,2024-07-12,8,Brazil,Gold 1,10,0,0.0222,0,At-Risk / Low Engagement
+125,Player_0125,2025-11-03,17,Asia-Pacific,Ascendant 1,19,0,0.0022,0,Social / Party Player
+126,Player_0126,2025-04-12,20,Korea,Ascendant 1,19,0,0.001,0,Social / Party Player
+127,Player_0127,2024-09-07,5,Asia-Pacific,Iron 3,3,0,0.0039,0,Hardcore Core
+128,Player_0128,2024-07-10,5,Latin America,Iron 2,2,0,0.001,0,Hardcore Core
+129,Player_0129,2025-01-09,17,Korea,Ascendant 3,21,0,0.0058,0,Social / Party Player
+130,Player_0130,2025-11-11,13,North America,Platinum 1,13,0,0.0063,0,Casual Regular
+131,Player_0131,2024-03-07,12,Europe,Gold 1,10,0,0.0021,0,Hardcore Core
+132,Player_0132,2023-10-28,8,North America,Gold 1,10,0,0.0014,0,Hardcore Core
+133,Player_0133,2023-12-20,14,Europe,Platinum 3,15,1,0.9862,1,At-Risk / Low Engagement
+134,Player_0134,2024-04-20,16,Latin America,Platinum 3,15,1,0.9782,1,At-Risk / Low Engagement
+135,Player_0135,2025-02-16,18,North America,Diamond 1,16,0,0.0012,0,Social / Party Player
+136,Player_0136,2023-12-31,20,Latin America,Immortal 2,23,0,0.0433,0,Social / Party Player
+137,Player_0137,2024-12-03,4,Europe,Bronze 1,4,0,0.1009,0,At-Risk / Low Engagement
+138,Player_0138,2025-10-05,12,Brazil,Silver 3,9,0,0.0014,0,Hardcore Core
+139,Player_0139,2024-01-23,15,Asia-Pacific,Platinum 2,14,0,0.0083,0,Social / Party Player
+140,Player_0140,2025-04-28,15,Korea,Ascendant 1,19,0,0.0026,0,Social / Party Player
+141,Player_0141,2023-11-07,15,North America,Diamond 1,16,1,0.237,0,Casual Regular
+142,Player_0142,2025-03-17,14,North America,Gold 2,11,0,0.0227,0,At-Risk / Low Engagement
+143,Player_0143,2024-01-06,11,Europe,Gold 1,10,0,0.0017,0,Hardcore Core
+144,Player_0144,2024-10-21,10,Korea,Gold 3,12,1,0.9866,1,Casual Regular
+145,Player_0145,2024-12-21,4,Korea,Bronze 2,5,0,0.0143,0,Casual Regular
+146,Player_0146,2025-05-18,9,Europe,Gold 1,10,1,0.9881,1,Casual Regular
+147,Player_0147,2024-02-04,14,Latin America,Platinum 3,15,0,0.0487,0,At-Risk / Low Engagement
+148,Player_0148,2025-12-10,21,Latin America,Ascendant 3,21,0,0.0667,0,Social / Party Player
+149,Player_0149,2024-12-20,19,Brazil,Ascendant 1,19,0,0.0052,0,Social / Party Player
+150,Player_0150,2025-03-17,21,Latin America,Ascendant 2,20,0,0.001,0,Social / Party Player
+151,Player_0151,2024-10-16,8,Europe,Bronze 3,6,0,0.0176,0,Hardcore Core
+152,Player_0152,2025-06-24,13,Europe,Silver 3,9,0,0.0008,0,At-Risk / Low Engagement
+153,Player_0153,2024-07-02,19,North America,Ascendant 2,20,0,0.0008,0,Casual Regular
+154,Player_0154,2025-03-02,21,Europe,Immortal 2,23,0,0.0091,0,Social / Party Player
+155,Player_0155,2025-08-21,15,Asia-Pacific,Platinum 3,15,0,0.1379,0,At-Risk / Low Engagement
+156,Player_0156,2025-08-13,8,Europe,Gold 2,11,0,0.0011,0,Hardcore Core
+157,Player_0157,2024-06-05,11,North America,Gold 2,11,0,0.0029,0,Hardcore Core
+158,Player_0158,2025-06-18,14,North America,Gold 3,12,0,0.0006,0,At-Risk / Low Engagement
+159,Player_0159,2025-05-09,17,Korea,Diamond 1,16,0,0.0007,0,Social / Party Player
+160,Player_0160,2024-08-04,19,Latin America,Immortal 2,23,0,0.006,0,Social / Party Player
+161,Player_0161,2025-04-20,14,Latin America,Gold 1,10,0,0.0008,0,At-Risk / Low Engagement
+162,Player_0162,2025-02-28,22,Korea,Immortal 1,22,0,0.0012,0,Social / Party Player
+163,Player_0163,2025-07-03,20,Korea,Ascendant 2,20,0,0.0127,0,Social / Party Player
+164,Player_0164,2025-04-06,22,Europe,Immortal 2,23,0,0.1175,0,Social / Party Player
+165,Player_0165,2024-06-08,9,Asia-Pacific,Bronze 1,4,0,0.001,0,Hardcore Core
+166,Player_0166,2024-10-24,15,Latin America,Diamond 1,16,0,0.0173,0,Social / Party Player
+167,Player_0167,2023-09-17,7,Asia-Pacific,Bronze 2,5,0,0.0056,0,Hardcore Core
+168,Player_0168,2024-03-31,10,North America,Gold 1,10,0,0.001,0,At-Risk / Low Engagement
+169,Player_0169,2026-01-17,21,Europe,Immortal 1,22,0,0.0017,0,Social / Party Player
+170,Player_0170,2025-03-08,9,North America,Bronze 3,6,0,0.0005,0,Hardcore Core
+171,Player_0171,2025-05-24,7,Korea,Bronze 3,6,0,0.0017,0,At-Risk / Low Engagement
+172,Player_0172,2024-09-07,18,North America,Ascendant 2,20,0,0.0597,0,Social / Party Player
+173,Player_0173,2025-06-14,10,Europe,Silver 3,9,0,0.0052,0,At-Risk / Low Engagement
+174,Player_0174,2023-10-14,10,Europe,Gold 2,11,0,0.0016,0,Hardcore Core
+175,Player_0175,2025-05-16,10,Europe,Silver 1,7,0,0.0007,0,Hardcore Core
+176,Player_0176,2024-11-03,18,Europe,Ascendant 3,21,0,0.0519,0,Social / Party Player
+177,Player_0177,2025-10-17,7,Korea,Silver 2,8,1,0.5907,1,At-Risk / Low Engagement
+178,Player_0178,2023-12-02,22,Europe,Ascendant 3,21,0,0.0035,0,Social / Party Player
+179,Player_0179,2023-11-30,18,Latin America,Diamond 2,17,0,0.0005,0,Social / Party Player
+180,Player_0180,2024-03-12,12,Asia-Pacific,Gold 1,10,0,0.0319,0,At-Risk / Low Engagement
+181,Player_0181,2025-04-01,9,Asia-Pacific,Gold 3,12,0,0.0023,0,Casual Regular
+182,Player_0182,2025-12-11,9,Asia-Pacific,Gold 1,10,0,0.0067,0,Hardcore Core
+183,Player_0183,2024-05-23,21,Europe,Ascendant 3,21,1,0.9953,1,Social / Party Player
+184,Player_0184,2025-01-23,7,Europe,Iron 3,3,0,0.0005,0,Hardcore Core
+185,Player_0185,2023-09-23,7,Brazil,Gold 1,10,0,0.0034,0,Casual Regular
+186,Player_0186,2024-06-03,15,North America,Platinum 1,13,0,0.0016,0,Casual Regular
+187,Player_0187,2024-10-20,20,Latin America,Immortal 1,22,1,0.9736,1,Social / Party Player
+188,Player_0188,2023-09-26,19,Europe,Diamond 3,18,0,0.143,0,Social / Party Player
+189,Player_0189,2024-03-06,8,Korea,Silver 2,8,0,0.0008,0,Hardcore Core
+190,Player_0190,2024-12-29,10,Europe,Platinum 1,13,0,0.0527,0,Casual Regular
+191,Player_0191,2026-01-15,5,North America,Bronze 3,6,0,0.065,0,At-Risk / Low Engagement
+192,Player_0192,2025-11-12,7,Asia-Pacific,Silver 3,9,1,0.9859,1,Casual Regular
+193,Player_0193,2025-01-10,17,North America,Diamond 1,16,0,0.0044,0,Social / Party Player
+194,Player_0194,2024-09-30,12,Latin America,Diamond 2,17,0,0.0088,0,Social / Party Player
+195,Player_0195,2026-01-05,4,Europe,Iron 3,3,0,0.0792,0,At-Risk / Low Engagement
+196,Player_0196,2025-10-13,13,North America,Gold 3,12,0,0.0083,0,Hardcore Core
+197,Player_0197,2024-05-29,7,Europe,Silver 2,8,0,0.0757,0,Casual Regular
+198,Player_0198,2024-04-18,8,Europe,Silver 2,8,0,0.001,0,Hardcore Core
+199,Player_0199,2026-01-06,12,North America,Gold 1,10,0,0.0015,0,Hardcore Core
+200,Player_0200,2024-11-16,10,Korea,Platinum 2,14,0,0.0367,0,Casual Regular
+201,Player_0201,2025-11-22,21,Europe,Immortal 1,22,0,0.0016,0,Social / Party Player
+202,Player_0202,2024-05-12,13,North America,Gold 2,11,0,0.0032,0,At-Risk / Low Engagement
+203,Player_0203,2024-02-06,8,Asia-Pacific,Silver 2,8,0,0.0009,0,Hardcore Core
+204,Player_0204,2024-01-06,19,North America,Ascendant 2,20,1,0.3175,0,Social / Party Player
+205,Player_0205,2024-08-29,13,North America,Platinum 1,13,1,0.9709,1,Casual Regular
+206,Player_0206,2024-08-02,17,Asia-Pacific,Ascendant 2,20,0,0.0069,0,Social / Party Player
+207,Player_0207,2023-11-17,11,North America,Platinum 2,14,0,0.0035,0,Hardcore Core
+208,Player_0208,2024-08-17,17,North America,Ascendant 2,20,0,0.0025,0,Social / Party Player
+209,Player_0209,2025-01-08,6,Europe,Bronze 1,4,0,0.0025,0,Hardcore Core
+210,Player_0210,2024-04-15,15,North America,Platinum 3,15,0,0.001,0,Social / Party Player
+211,Player_0211,2024-09-04,11,Europe,Platinum 1,13,0,0.0392,0,Casual Regular
+212,Player_0212,2024-01-30,7,North America,Gold 2,11,0,0.0012,0,Hardcore Core
+213,Player_0213,2024-11-01,11,Korea,Gold 2,11,0,0.0095,0,Hardcore Core
+214,Player_0214,2024-01-06,5,Latin America,Iron 3,3,0,0.0032,0,Hardcore Core
+215,Player_0215,2025-12-23,11,Latin America,Platinum 1,13,1,0.9806,1,Casual Regular
+216,Player_0216,2025-12-31,16,Asia-Pacific,Platinum 3,15,0,0.019,0,Casual Regular
+217,Player_0217,2025-11-06,18,Asia-Pacific,Ascendant 2,20,0,0.0405,0,Social / Party Player
+218,Player_0218,2024-10-05,14,North America,Platinum 1,13,1,0.9714,1,At-Risk / Low Engagement
+219,Player_0219,2024-05-25,8,North America,Silver 1,7,0,0.0093,0,Hardcore Core
+220,Player_0220,2025-07-27,13,Europe,Platinum 2,14,0,0.0019,0,Casual Regular
+221,Player_0221,2025-09-18,6,Korea,Bronze 3,6,0,0.0185,0,At-Risk / Low Engagement
+222,Player_0222,2024-01-14,8,North America,Silver 3,9,0,0.0086,0,Hardcore Core
+223,Player_0223,2024-04-19,13,Latin America,Gold 1,10,0,0.0026,0,At-Risk / Low Engagement
+224,Player_0224,2024-07-16,20,Korea,Ascendant 3,21,0,0.0299,0,Social / Party Player
+225,Player_0225,2024-12-03,11,Asia-Pacific,Platinum 2,14,0,0.051,0,Hardcore Core
+226,Player_0226,2025-01-31,9,North America,Bronze 2,5,0,0.0003,0,Hardcore Core
+227,Player_0227,2026-01-14,15,North America,Diamond 1,16,0,0.0029,0,Casual Regular
+228,Player_0228,2025-08-21,10,Asia-Pacific,Silver 2,8,0,0.0012,0,Hardcore Core
+229,Player_0229,2023-12-13,18,North America,Ascendant 2,20,0,0.004,0,Social / Party Player
+230,Player_0230,2025-04-12,12,Asia-Pacific,Platinum 1,13,0,0.0016,0,Casual Regular
+231,Player_0231,2024-05-29,13,Latin America,Gold 3,12,0,0.0011,0,At-Risk / Low Engagement
+232,Player_0232,2024-05-29,11,Korea,Gold 3,12,0,0.0017,0,At-Risk / Low Engagement
+233,Player_0233,2025-05-07,11,Asia-Pacific,Platinum 1,13,0,0.0195,0,Casual Regular
+234,Player_0234,2025-08-07,11,Korea,Gold 3,12,0,0.0006,0,Hardcore Core
+235,Player_0235,2024-06-09,15,Asia-Pacific,Diamond 1,16,0,0.0639,0,Casual Regular
+236,Player_0236,2025-11-11,6,Asia-Pacific,Silver 1,7,1,0.9798,1,Casual Regular
+237,Player_0237,2024-11-27,12,Brazil,Platinum 1,13,0,0.0466,0,Social / Party Player
+238,Player_0238,2023-12-21,15,North America,Platinum 1,13,0,0.0195,0,At-Risk / Low Engagement
+239,Player_0239,2024-05-23,21,North America,Immortal 1,22,0,0.0015,0,Social / Party Player
+240,Player_0240,2024-04-07,15,Europe,Gold 3,12,0,0.0042,0,At-Risk / Low Engagement
+241,Player_0241,2025-11-20,13,North America,Gold 3,12,0,0.0132,0,At-Risk / Low Engagement
+242,Player_0242,2025-08-11,20,North America,Immortal 1,22,0,0.0093,0,Social / Party Player
+243,Player_0243,2025-06-06,15,North America,Diamond 2,17,0,0.004,0,Casual Regular
+244,Player_0244,2025-05-22,16,Asia-Pacific,Diamond 3,18,0,0.001,0,Social / Party Player
+245,Player_0245,2025-08-16,18,Asia-Pacific,Diamond 2,17,0,0.0006,0,Social / Party Player
+246,Player_0246,2023-10-09,19,Latin America,Diamond 2,17,0,0.0032,0,Social / Party Player
+247,Player_0247,2025-09-10,14,Asia-Pacific,Platinum 3,15,0,0.0456,0,Social / Party Player
+248,Player_0248,2024-05-25,20,Brazil,Ascendant 3,21,1,0.9829,1,Social / Party Player
+249,Player_0249,2024-09-08,7,Asia-Pacific,Bronze 3,6,0,0.0032,0,Hardcore Core
+250,Player_0250,2024-08-18,19,North America,Diamond 3,18,0,0.014,0,Social / Party Player
+251,Player_0251,2025-07-29,14,Asia-Pacific,Platinum 3,15,0,0.001,0,Social / Party Player
+252,Player_0252,2025-05-09,16,Europe,Diamond 2,17,0,0.0606,0,Social / Party Player
+253,Player_0253,2024-08-22,12,Korea,Platinum 1,13,0,0.0066,0,Casual Regular
+254,Player_0254,2025-05-16,20,Asia-Pacific,Immortal 3,24,0,0.0021,0,Social / Party Player
+255,Player_0255,2024-06-07,15,North America,Diamond 2,17,0,0.0445,0,Social / Party Player
+256,Player_0256,2025-12-28,18,North America,Diamond 3,18,0,0.0714,0,Social / Party Player
+257,Player_0257,2025-11-29,12,Europe,Platinum 2,14,0,0.2072,0,At-Risk / Low Engagement
+258,Player_0258,2024-05-08,4,North America,Iron 1,1,0,0.0009,0,Hardcore Core
+259,Player_0259,2024-08-13,17,Asia-Pacific,Ascendant 2,20,0,0.0123,0,Social / Party Player
+260,Player_0260,2025-12-25,9,North America,Silver 3,9,0,0.0351,0,At-Risk / Low Engagement
+261,Player_0261,2023-12-11,19,Europe,Diamond 3,18,0,0.0044,0,Social / Party Player
+262,Player_0262,2026-01-27,18,Europe,Platinum 2,14,0,0.0028,0,Social / Party Player
+263,Player_0263,2023-10-23,14,Europe,Platinum 2,14,0,0.1318,0,Casual Regular
+264,Player_0264,2024-05-07,8,Latin America,Silver 2,8,0,0.0011,0,Hardcore Core
+265,Player_0265,2023-09-25,7,Europe,Bronze 2,5,0,0.0019,0,Hardcore Core
+266,Player_0266,2023-10-29,15,Europe,Diamond 2,17,0,0.0007,0,Social / Party Player
+267,Player_0267,2025-05-04,13,Europe,Gold 2,11,0,0.0055,0,Hardcore Core
+268,Player_0268,2024-04-13,5,Europe,Bronze 2,5,0,0.1261,0,Casual Regular
+269,Player_0269,2025-08-01,14,Europe,Platinum 1,13,0,0.1586,0,At-Risk / Low Engagement
+270,Player_0270,2024-12-17,5,Latin America,Iron 2,2,0,0.001,0,Hardcore Core
+271,Player_0271,2025-07-07,10,Asia-Pacific,Silver 1,7,0,0.0003,0,Hardcore Core
+272,Player_0272,2024-12-05,12,North America,Gold 2,11,1,0.9885,1,Casual Regular
+273,Player_0273,2024-01-04,5,North America,Bronze 2,5,0,0.0021,0,Casual Regular
+274,Player_0274,2025-01-17,8,Europe,Silver 2,8,0,0.0017,0,Hardcore Core
+275,Player_0275,2025-11-12,10,North America,Silver 3,9,0,0.0039,0,Hardcore Core
+276,Player_0276,2025-04-24,14,North America,Platinum 2,14,0,0.002,0,Casual Regular
+277,Player_0277,2024-03-18,13,Europe,Diamond 1,16,0,0.1647,0,Casual Regular
+278,Player_0278,2024-11-04,9,North America,Silver 2,8,0,0.0431,0,At-Risk / Low Engagement
+279,Player_0279,2024-10-01,13,Latin America,Gold 3,12,0,0.0332,0,Social / Party Player
+280,Player_0280,2025-01-21,13,North America,Platinum 2,14,0,0.0036,0,Social / Party Player
+281,Player_0281,2025-05-22,9,Brazil,Bronze 3,6,0,0.0002,0,Hardcore Core
+282,Player_0282,2024-08-29,15,Asia-Pacific,Ascendant 1,19,0,0.156,0,Casual Regular
+283,Player_0283,2024-07-30,24,North America,Ascendant 3,21,0,0.0063,0,Social / Party Player
+284,Player_0284,2023-12-12,9,North America,Silver 3,9,0,0.0005,0,Hardcore Core
+285,Player_0285,2024-08-12,16,Europe,Gold 3,12,0,0.0038,0,Hardcore Core
+286,Player_0286,2023-09-19,21,Latin America,Radiant,25,0,0.0042,0,Social / Party Player
+287,Player_0287,2024-02-12,9,Brazil,Gold 3,12,0,0.2202,0,Casual Regular
+288,Player_0288,2025-11-24,9,Asia-Pacific,Silver 2,8,0,0.0354,0,At-Risk / Low Engagement
+289,Player_0289,2025-02-24,19,North America,Platinum 3,15,1,0.969,1,At-Risk / Low Engagement
+290,Player_0290,2025-03-03,10,Asia-Pacific,Silver 2,8,0,0.0007,0,Hardcore Core
+291,Player_0291,2026-01-29,7,North America,Silver 1,7,1,0.9649,1,At-Risk / Low Engagement
+292,Player_0292,2025-08-27,9,Asia-Pacific,Gold 3,12,0,0.0008,0,Hardcore Core
+293,Player_0293,2024-04-08,20,North America,Ascendant 3,21,0,0.0007,0,Social / Party Player
+294,Player_0294,2025-03-31,10,Latin America,Silver 2,8,0,0.0003,0,Hardcore Core
+295,Player_0295,2025-09-25,7,Asia-Pacific,Bronze 3,6,0,0.0067,0,At-Risk / Low Engagement
+296,Player_0296,2025-05-26,14,North America,Platinum 2,14,0,0.0018,0,Social / Party Player
+297,Player_0297,2025-06-07,20,Asia-Pacific,Immortal 1,22,0,0.0545,0,Social / Party Player
+298,Player_0298,2025-09-02,14,Asia-Pacific,Platinum 1,13,0,0.0017,0,Hardcore Core
+299,Player_0299,2025-11-04,15,Asia-Pacific,Diamond 1,16,0,0.0118,0,Social / Party Player
+300,Player_0300,2024-04-07,24,Asia-Pacific,Immortal 1,22,0,0.0017,0,Social / Party Player

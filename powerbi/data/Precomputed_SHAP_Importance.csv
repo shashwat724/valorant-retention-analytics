@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+total_matches,1.712608
+account_tenure_days,0.86957175
+avg_gap_days,0.82550335
+avg_session_min,0.6565247
+total_sessions,0.5813513
+avg_kast,0.44691625
+recent_rr_trend,0.4179448
+days_since_last_session,0.40580758
+avg_rr_change,0.40036005
+current_rank_tier,0.2566589
+win_rate,0.20428635
+avg_hs_pct,0.13657974
+party_ratio,0.12918797
+avg_acs,0.06508908
+sessions_per_week,0.017012505
