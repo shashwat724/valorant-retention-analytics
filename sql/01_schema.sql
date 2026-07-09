@@ -33,6 +33,19 @@ CREATE TABLE ranks (
 );
 
 -- -----------------------------------------------------------
+-- Patches (simulated balance-patch timeline, used for
+-- "which agent changes correlate with engagement" analysis)
+-- -----------------------------------------------------------
+CREATE TABLE patches (
+    patch_id        INTEGER PRIMARY KEY,
+    patch_version   TEXT NOT NULL UNIQUE,
+    patch_date      DATE NOT NULL,
+    buffed_agent_id INTEGER REFERENCES agents(agent_id),
+    nerfed_agent_id INTEGER REFERENCES agents(agent_id),
+    patch_notes     TEXT
+);
+
+-- -----------------------------------------------------------
 -- Players
 -- -----------------------------------------------------------
 CREATE TABLE players (
@@ -52,7 +65,8 @@ CREATE TABLE player_sessions (
     session_date    DATE NOT NULL,
     session_start   TIME NOT NULL,
     session_duration_min INTEGER NOT NULL,
-    matches_played  INTEGER NOT NULL
+    matches_played  INTEGER NOT NULL,
+    party_size      INTEGER NOT NULL DEFAULT 1 CHECK (party_size BETWEEN 1 AND 5)  -- 1 = solo queue
 );
 
 -- -----------------------------------------------------------
@@ -65,6 +79,7 @@ CREATE TABLE matches (
     map_id          INTEGER NOT NULL REFERENCES maps(map_id),
     agent_id        INTEGER NOT NULL REFERENCES agents(agent_id),
     rank_id          INTEGER NOT NULL REFERENCES ranks(rank_id),   -- rank at time of match
+    patch_id        INTEGER REFERENCES patches(patch_id),         -- active patch at time of match
     match_date      DATE NOT NULL,
     match_result    TEXT NOT NULL CHECK (match_result IN ('Win','Loss','Draw')),
     rounds_won      INTEGER NOT NULL,
@@ -101,5 +116,6 @@ CREATE INDEX idx_matches_player  ON matches(player_id);
 CREATE INDEX idx_matches_date    ON matches(match_date);
 CREATE INDEX idx_matches_agent   ON matches(agent_id);
 CREATE INDEX idx_matches_map     ON matches(map_id);
+CREATE INDEX idx_matches_patch   ON matches(patch_id);
 CREATE INDEX idx_rounds_match    ON rounds(match_id);
 CREATE INDEX idx_sessions_player ON player_sessions(player_id);

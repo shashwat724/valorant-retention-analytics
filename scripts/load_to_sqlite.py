@@ -29,6 +29,7 @@ def main():
         "agents": "agents.csv",
         "maps": "maps.csv",
         "ranks": "ranks.csv",
+        "patches": "patches.csv",
         "players": "players.csv",
         "player_sessions": "player_sessions.csv",
         "matches": "matches.csv",
